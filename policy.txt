@@ -1,0 +1,1 @@
+For users who are about to travel accross nations, which each users must have citizen id and is allowed to travel.
