@@ -1,3 +1,7 @@
-# Ticktye booking system
+# Ticketye
+## BOOKING SYSTEM
 
-our demo is ticketyeapp.herokuapp.com
+
+
+
+our demo [ticketyapp.herokuapp.com](https://ticketyeapp.herokuapp.com/)
